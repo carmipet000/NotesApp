@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string-array name="title_string_array">
+        <item>Title1</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+        <item>Title6</item>
+        <item>Title7</item>
+    </string-array>
+
+    <string-array name="description_string_array">
+        <item>description</item>
+        <item>Title2</item>
+        <item>Title3</item>
+        <item>Title4</item>
+        <item>Title5</item>
+        <item>Title6</item>
+        <item>Title7</item>
+    </string-array>
+
+</resources>
